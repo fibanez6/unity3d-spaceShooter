@@ -1,0 +1,5 @@
+# UNITY 3D - SPACE SHOOTER
+
+### REQUIREMENTS
+* Unity 5.9.6
+
